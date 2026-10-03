@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 916 232" role="img" aria-label="Escritório Modelo Advogados Associados">
+  <g fill="none" stroke="#c6a15b" stroke-width="6" stroke-linecap="round">
+    <line x1="100" y1="40" x2="100" y2="190"/>
+    <line x1="50" y1="70" x2="150" y2="70"/>
+    <line x1="50" y1="70" x2="50" y2="115"/><line x1="150" y1="70" x2="150" y2="115"/>
+    <path d="M26 115 h48 a24 24 0 0 1 -48 0 Z"/><path d="M126 115 h48 a24 24 0 0 1 -48 0 Z"/>
+    <line x1="68" y1="190" x2="132" y2="190"/>
+  </g>
+  <text x="210" y="125" font-family="Georgia, 'Times New Roman', serif" font-size="84" fill="#c6a15b" letter-spacing="4">MODELO</text>
+  <text x="214" y="175" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#e3d3ac" letter-spacing="9">ADVOGADOS ASSOCIADOS</text>
+</svg>
